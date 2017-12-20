@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "127670833908",
+    "firebase_url": "https://fir-search-ac2a9.firebaseio.com",
+    "project_id": "fir-search-ac2a9",
+    "storage_bucket": "fir-search-ac2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127670833908:android:6f2bb394b6114ef2",
+        "android_client_info": {
+          "package_name": "com.example.rohit.firebasesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127670833908-uajo168ej3go6c5c8u04k2hoffqhl1i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.firebasesearch",
+            "certificate_hash": "db098efbeea1f23bea2e3d87e5372a8f782f7605"
+          }
+        },
+        {
+          "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9y56ukGmJVFXaRHCwfCXpJhcK13_pqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127670833908:android:946a75efe1fde120",
+        "android_client_info": {
+          "package_name": "com.example.rohit.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127670833908-38aqpekvfbcrq29riv64m4nre4tl7k3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.videocall",
+            "certificate_hash": "db098efbeea1f23bea2e3d87e5372a8f782f7605"
+          }
+        },
+        {
+          "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9y56ukGmJVFXaRHCwfCXpJhcK13_pqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127670833908:android:0af62d950217e10d",
+        "android_client_info": {
+          "package_name": "com.example.rohit.videorchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127670833908-1g5vb18f0bqv2uf3kbld2u0b0d8o4sbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.videorchat",
+            "certificate_hash": "db098efbeea1f23bea2e3d87e5372a8f782f7605"
+          }
+        },
+        {
+          "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9y56ukGmJVFXaRHCwfCXpJhcK13_pqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127670833908:android:c3d7f15e7b620b2b",
+        "android_client_info": {
+          "package_name": "com.example.rohit.stayclose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127670833908-hqhrer94k484ld4rr73orviaq099kvt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.stayclose",
+            "certificate_hash": "db098efbeea1f23bea2e3d87e5372a8f782f7605"
+          }
+        },
+        {
+          "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9y56ukGmJVFXaRHCwfCXpJhcK13_pqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127670833908-03mcas6jpjbcq4blbl0cfcfvrqq1mlcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

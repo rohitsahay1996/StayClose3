@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:focusableInTouchMode="true"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.rohit.stayclose.SecondActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f3e5f5"
+        android:id="@+id/relativeLayout">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/black"
+            android:layout_marginTop="73dp"/>
+        <EditText
+            android:id="@+id/search_field"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/search_bar"
+            android:backgroundTint="@android:color/white"
+            android:hint="Search Here.."
+            android:padding="10dp"
+            android:textColor="#000" />
+        <ImageButton
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/search_icon"
+            android:src="@drawable/ic_search_black_24dp"
+            android:layout_marginLeft="200dp"
+            android:backgroundTint="@android:color/transparent"
+
+            />
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/about_btn"
+            android:transitionName="image_trans"
+            android:layout_marginLeft="309dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/transparent"
+            android:backgroundTint="@android:color/transparent"
+            android:src="@mipmap/logo" />
+
+        <ImageView
+            android:id="@+id/refresh_btn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="258dp"
+            android:layout_marginTop="23dp"
+
+            android:src="@drawable/refreshagain" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="About"
+    android:layout_marginLeft="309dp"
+    android:layout_marginTop="50dp"/>
+    </RelativeLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recycle_view"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@+id/relativeLayout"></android.support.v7.widget.RecyclerView>
+
+
+
+</RelativeLayout>
